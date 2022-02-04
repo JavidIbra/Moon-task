@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace CoreTask2_Moon.Models.Entity
+{
+    public class AppDetail 
+    {
+        public int Id { get; set; }
+        public string Img { get; set; }
+        public string Title { get; set; }
+        public string Text { get; set; }
+        public string LinkText { get; set; }
+        public string Link { get; set; }
+    }
+}

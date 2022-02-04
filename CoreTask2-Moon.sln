@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreTask2-Moon", "CoreTask2-Moon\CoreTask2-Moon.csproj", "{52CB873E-49C2-47AA-979A-FBA0133BCBBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52CB873E-49C2-47AA-979A-FBA0133BCBBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52CB873E-49C2-47AA-979A-FBA0133BCBBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52CB873E-49C2-47AA-979A-FBA0133BCBBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52CB873E-49C2-47AA-979A-FBA0133BCBBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A2DFBC4-16F4-4613-8177-344F835517D6}
+	EndGlobalSection
+EndGlobal
